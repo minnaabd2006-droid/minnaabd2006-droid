@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📜 Certifications
+| Course | Platform | Date | Verification |
+| :--- | :---: | :---: | :---: |
+| **Python for Data Science and Machine Learning** | Udemy | Jan 2026 | [View Certificate](https://ude.my/UC-e89c5848-da05-4a8d-b802-017681c9c3aa) |
